@@ -153,3 +153,9 @@ body::before {
     font-size: 2.5em;
   }
 }
+
+.celebration-gif {
+  width: 250px;
+  margin-top: 15px;
+  display: block;
+}

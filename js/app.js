@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
     setTimeout(() => {
       poem.classList.add("show");
     }, delay);
-    delay += 1000;
+    delay += 2000;
   });
 });
 
